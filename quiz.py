@@ -196,3 +196,4 @@ print(Fore.MAGENTA + "\nThanks for playing!") ## print statement shown if player
 # print(Fore.MAGENTA + "\nThanks for playing!")           
 
 # FIRST VERSION ^^^^^
+# WONT BE USING THIS
