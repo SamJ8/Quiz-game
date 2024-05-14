@@ -197,3 +197,4 @@ print(Fore.MAGENTA + "\nThanks for playing!") ## print statement shown if player
 
 # FIRST VERSION ^^^^^
 # WONT BE USING THIS
+# Checking git working
